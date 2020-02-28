@@ -1,0 +1,23 @@
+Brief Instruction:
+
+index.php is the main page.
+connect.php connection to database
+
+citrus.sql is a database file for importing
+
+In App/Citrus folder everything is stored.
+    Assets: picture that is used for the logo,
+    Authentication: login and logout,
+    Repositories: Classes (Fruit, Comments),
+    Scripts: code users only for processing data.
+    View: view pages and parts of main page.
+    start.php: psr-4 autoloader.
+
+
+Three page project: index.php, login.php, approve.php.
+
+index.php include navigation.php, products.php, comments.php, footer.php
+login.php include footer.php
+approve.php include footer.php
+
+    

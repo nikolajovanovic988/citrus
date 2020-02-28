@@ -1,0 +1,11 @@
+body {
+    background-attachment:fixed;
+    background-color:#f0f0f0;
+    background-position:top center;
+    background-repeat:no-repeat;
+    background-size:100% auto;
+}
+
+.button {
+    text-align:center;
+}
